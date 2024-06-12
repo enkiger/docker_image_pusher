@@ -2,9 +2,10 @@ nginx
 #支持私库
 xhofe/alist:latest
 #支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
-gladtbam/ms365_e5_renewx:latest
-portainer/portainer-ce
+gladtbam/ms365_e5_renewx
+--platform=linux/arm64 portainer/portainer-ce:latest
 
 
 #over
