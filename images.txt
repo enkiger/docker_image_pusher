@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 python:alpine3.19
 gladtbam/ms365_e5_renewx:latest
+portainer/portainer-ce
