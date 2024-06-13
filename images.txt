@@ -10,7 +10,7 @@ python:alpine3.19
 --platform=linux/arm64 marukome0743/homepage
 --platform=linux/arm64 sigmaprime/ufw
 --platform=linux/arm64 linuxserver/qbittorrent
-
+--platform=linux/arm64 diygod/rsshub
 
 
 #over
