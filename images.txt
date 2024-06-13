@@ -9,7 +9,7 @@ python:alpine3.19
 --platform=linux/arm64 teddysun/v2ray
 --platform=linux/arm64 marukome0743/homepage
 --platform=linux/arm64 sigmaprime/ufw
---platform=linux/arm64 kasmweb/qbittorrent
+--platform=linux/arm64 linuxserver/qbittorrent
 
 
 
