@@ -13,4 +13,5 @@ python:alpine3.19
 --platform=linux/arm64 diygod/rsshub
 --platform=linux/arm64 diygod/rsshub:chromium-bundled-ffff5456e3bbd12fec719af5534a56d67a00e714
 --platform=linux/arm64 cloudflare/cloudflared
+--platform=linux/arm64 browserless/chrome
 #over
